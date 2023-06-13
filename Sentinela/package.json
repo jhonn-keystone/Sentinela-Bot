@@ -1,0 +1,22 @@
+{
+  "name": "magnebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.11.0",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^0.4.1",
+    "gifencoder": "^2.0.1",
+    "gifwrap": "^0.10.1",
+    "jimp": "^0.3.11",
+    "sharp": "^0.32.1"
+  }
+}
